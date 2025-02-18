@@ -33,7 +33,7 @@ Accurate sales forecasting is crucial for retail success. This project leverages
 ## Code Structure
 
 * `sales_forecast`: Contains the `sales_forecast` function for generating sales predictions.
-* `holiday_effect.py`: Contains the `holiday_effect` and `Markdown_holiday_effect` functions for analyzing holiday impacts.
+* `holiday_effect`: Contains the `holiday_effect` and `Markdown_holiday_effect` functions for analyzing holiday impacts.
 * `sales_forecasting_prophet.ipynb`: Jupyter Notebook containing the main analysis, model training, visualization, and recommendation generation.
 
 
